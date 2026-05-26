@@ -1,5 +1,5 @@
 
-<!-- ──────────────────────────────────────────────
+>!-- ──────────────────────────────────────────────
      💎 KOLEKSI PROMPT AI – RISET LLM 2026
      ✧ Crafted by Blizz-Voltra英俊的 ✧
      ✧ Extended Deep-Dive Edition ✧
@@ -27,44 +27,14 @@
 
 ## 📑 Navigasi Cepat
 
-- [🧬 Filosofi & Tujuan](#-filosofi--tujuan)
-- [🔬 Arsitektur Pengujian](#-arsitektur-pengujian)
-- [🧪 Model Eksperimental](#-model-eksperimental)
-  - [1. Gemini Penalaran](#1-gemini-penalaran)
-  - [2. Claude Sonnet 4.5 Thinking](#2-claude-sonnet-45-thinking)
-  - [3. DeepSeek VR4](#3-deepseek-vr4)
-  - [4. Kimi 2.6 Instant](#4-kimi-26-instant)
-- [🎯 Kategori Prompt & Taktik](#-kategori-prompt--taktik)
-  - [🕴️ Policy Puppetry](#️-policy-puppetry)
-  - [🎭 Persona Injection](#-persona-injection)
-  - [📉 Compliance Drift](#-compliance-drift)
-  - [🧩 Jailbreak Kreatif](#-jailbreak-kreatif)
-  - [💣 Teknik Lanjutan & Hybrid](#-teknik-lanjutan--hybrid)
-- [💬 Gaya & Format Prompt](#-gaya--format-prompt)
-  - [XML/YAML](#-xmlyaml-struktural)
-  - [Roleplay Multi-Babak](#-roleplay-multi-babak)
-  - [Encoding & Unicode Abuse](#-encoding--unicode-abuse)
-  - [Prompt Chaining](#-prompt-chaining)
-  - [Multibahasa & Cultural Context](#-multibahasa--cultural-context)
-- [📁 Struktur Repositori](#-struktur-repositori)
-- [🚀 Panduan Memulai Uji Coba](#-panduan-memulai-uji-coba)
-  - [Prasyarat](#prasyarat)
-  - [Langkah-langkah](#langkah-langkah)
-  - [Mengukur Efektivitas](#mengukur-efektivitas)
-- [🧪 Metodologi Pengujian Lengkap](#-metodologi-pengujian-lengkap)
-  - [Fase 1: Persiapan & Baseline](#fase-1-persiapan--baseline)
-  - [Fase 2: Eksekusi Prompt](#fase-2-eksekusi-prompt)
-  - [Fase 3: Analisis Respons](#fase-3-analisis-respons)
-  - [Fase 4: Iterasi & Dokumentasi](#fase-4-iterasi--dokumentasi)
-  - [Metrik Keberhasilan](#metrik-keberhasilan)
-- [📊 Statistik & Efektivitas](#-statistik--efektivitas)
-- [📈 Lanskap AI 2026](#-lanskap-ai-2026)
-- [🤝 Panduan Kontribusi](#-panduan-kontribusi)
-- [🗺️ Roadmap](#-roadmap)
-- [📚 Glosarium](#-glosarium)
-- [❓ FAQ – Pertanyaan Umum](#-faq--pertanyaan-umum)
-- [⚠️ Penafian & Etika](#️-penafian--etika)
-- [📄 Lisensi & Kredit](#-lisensi--kredit)
+<div align="center">
+
+| 🔍 [Filosofi](#-filosofi--tujuan) | 🔬 [Arsitektur](#-arsitektur-pengujian) | 🧪 [Model](#-model-eksperimental) | 🎯 [Kategori](#-kategori-prompt--taktik) |
+|:---:|:---:|:---:|:---:|
+| 💬 [Format](#-gaya--format-prompt) | 🚀 [Mulai Uji](#-panduan-memulai-uji-coba) | 🧪 [Metodologi](#-metodologi-pengujian-lengkap) | 📊 [Statistik](#-statistik--efektivitas) |
+| 📈 [Lanskap](#-lanskap-ai-2026) | 🤝 [Kontribusi](#-panduan-kontribusi) | 🗺️ [Roadmap](#-roadmap) | 📚 [Glosarium](#-glosarium) |
+
+</div>
 
 ---
 
