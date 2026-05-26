@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Koleksi Prompt AI – Eksplorasi Batas LLM 2026
 *Repositori riset interaksi model bahasa besar (LLM) dengan koleksi prompt sintetis untuk keamanan, jailbreak, dan rekayasa konteks.*
 
@@ -211,6 +211,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Silakan gunakan, modifikasi, dan s
 ---
 
 Dikurasi oleh [b. voltra] — Mari menjelajah batas AI dengan tanggung jawab.
-⭐ Jika repositori ini bermanfaat, beri bintang dan bagikan ke komunitas risetmu!
-
-```
+⭐ Jika repositori ini bermanfaat, beri bintang dan bagikan ke komunitas riset
